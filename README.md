@@ -13,3 +13,11 @@ Week1:-
 This week we had to learn various probability distributions and read the theory of Multi-Armed Bandits from the reference book by "Sutton and Barto".
 We had a theory task on the topics of probability. We also had to learn about two Python libraries- "NumPy" and "MatPlotLib".
 We learnt about the epsilon greedy algorithm for reinforcement learning and implemented it in a Multi-Armed Bandit problem.
+
+Week2:-
+This week was relatively relaxed compared to others since we only had to watch some video lectures of Prof David Silver.
+
+Week3&4:-
+This 2 weeks we had to write a RL program to show two different policies- Monte Carlo and Temporal Difference Learning. 
+We had to make a RL program to solve the Taxi problem from OpenAI Gymnasium. 
+I have attached the codes for both Monte Carlo and Temporal Difference Learning. 
