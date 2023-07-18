@@ -21,3 +21,10 @@ Week3&4:-
 This 2 weeks we had to write a RL program to show two different policies- Monte Carlo and Temporal Difference Learning. 
 We had to make a RL program to solve the Taxi problem from OpenAI Gymnasium. 
 I have attached the codes for both Monte Carlo and Temporal Difference Learning. 
+On running the two codes we find that the TD learning algorithm works way better for this problem compared to MC learning.
+
+Week5&6:-
+We had to watch some more video lecs of Prof David Silver and a Neural Networks playlist by 3Blue1Brown.
+
+Week7&8:-
+Final project weeks.
