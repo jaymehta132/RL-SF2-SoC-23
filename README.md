@@ -27,7 +27,7 @@ Week4,5,6:-
 We had to watch some more video lecs of Prof David Silver and a Neural Networks playlist by 3Blue1Brown.
 
 Week7&8:-
-Final project weeks.
+These weeks we had to make the final project which included making a RL agent learn how to play the Street Fighter 2 game. I've uploaded the code for the same.
 
 Codes:- 
 
